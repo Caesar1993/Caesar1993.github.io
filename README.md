@@ -1,5 +1,7 @@
-[Hux Blog](https://huangxuan.me)
+[zhangxy Blog](https://huangxuan.me)
 ================================
+[zhangxy blog](https://caesar1993.github.io/)
+
 
 > I never expect this becomes popular.
 
