@@ -157,30 +157,6 @@
 2. **Authored statistical tools to evaluate ASR (Automatic Speech Recognition) efficiency.**
 3. **Managed the cleansing and processing of tens of millions of dialogue data.**
 
-## **3. Minglamp Technology**
-
-**Duration**: November 2019 – August 2021
-
-**Position**: Patent Manager
-
-**Achievements**:
-
-1. **Collaborated with over 20 product lines and R&D departments within the group, facilitating the deployment of 1500+ patent applications comprehensively.**
-2. **Closely monitored and protected the innovative aspects of core products including HAO Map, Lingting Gongpai, CRM, among others.**
-3. **Acquired a deep understanding of business logic, especially related to the implementation of AI products.**
-
----
-
-## **4. Kangxin Intellectual Property**
-
-**Duration**: July 2015 – October 2019
-
-**Position**: Patent Attorney
-
-**Achievements**:
-
-1. **Oversaw patent tasks for key projects from major clients such as Tencent, ZTE, Netease Games, and Gree Electric Appliances, earning commendations from clients on multiple occasions.**
-2. **Successfully filed 400+ patents in crucial national strategic areas including communication standards, AI, audio and video decoding, blockchain, and Internet of Vehicles.**
 
 # **Self-Evaluation**
 
